@@ -8,7 +8,7 @@ QT       += core gui declarative
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = quickpg
+TARGET = qmlwd
 TEMPLATE = app
 
 
