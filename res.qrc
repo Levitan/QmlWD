@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/QuickPG/ui.qml</file>
+        <file>qml/QuickPG/Panel.qml</file>
+        <file>qml/QuickPG/Close.qml</file>
+        <file>qml/QuickPG/Minimize.qml</file>
+        <file>qml/QuickPG/Maximize.qml</file>
+        <file>qml/QuickPG/Decoration.qml</file>
+        <file>img/bg.png</file>
+        <file>img/panel-bg.png</file>
+        <file>img/close.png</file>
+        <file>img/close-hover.png</file>
+        <file>img/min.png</file>
+        <file>img/min-hover.png</file>
+        <file>img/max-hover.png</file>
+        <file>img/max.png</file>
+        <file>img/resizeMark.png</file>
+    </qresource>
+</RCC>
